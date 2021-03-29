@@ -101,7 +101,8 @@ a {
      padding: 80px 0;
  }
  .wraper {
-     width: 1170px;
+     max-width: 1170px;
+     width: 100%;
      height: auto;
      margin: 0 auto;
  }
